@@ -3,7 +3,7 @@ hard coal,1.0
 natural gas steam turbine,1.0
 natural gas combustion turbine,1.0
 nuclear,1.0
-hydro,1.0
+hydro,0.875
 onshore wind,1.0
 solar pv,1.0
 solar thermal,1.0
