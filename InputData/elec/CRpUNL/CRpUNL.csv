@@ -1,21 +1,21 @@
 Unit: MW/($/MWh),Fraction of start year capacity
-hard coal,0.0
-natural gas steam turbine,0.13108999999999998
-natural gas combined cycle,5.392802009813536
-nuclear,3.4515964232346743
+hard coal,0.0005157871373600917
+natural gas steam turbine,0.0005431545974852495
+natural gas combined cycle,0.00030147202964780586
+nuclear,0.0005365147988717168
 hydro,0.0
-onshore wind,0.38000064405797174
-solar PV,0.6899999999999962
+onshore wind,4.830434789977776e-05
+solar PV,0.00022579469916946695
 solar thermal,0.0
 biomass,0.0
 geothermal,0.0
-petroleum,0.11596000000000152
-natural gas peaker,0.17209040618015087
+petroleum,0.0
+natural gas peaker,0.0004061801505384981
 lignite,0.0
 offshore wind,0.0
 crude oil,0.0
 heavy or residual fuel oil,0.0
-municipal solid waste,0.23059999999999992
+municipal solid waste,0.0
 hard coal w CCS,0.0
 natural gas combined cycle w CCS,0.0
 biomass w CCS,0.0
